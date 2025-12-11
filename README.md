@@ -33,37 +33,60 @@ Uso de pasta vendor com bootstrap reduzido e icons
 
 📁 Estrutura de Pastas
 meu-site/
+
 ├── index.html
+
 ├── equipe.html
-├── produtos.html
+
 ├── contato.html
+
 ├── sobre.html
+
 │
+
 ├── css/
+
 │   └── estilo.css
+
 │
+
 ├── js/
+
 │   └── script.js
+
 │
+
 ├── img/
+
 │   ├── logo.png
+
 │   ├── destaque1.jpg
+
 │   ├── destaque2.jpg
+
 │   ├── destaque3.jpg
+
 │   ├── equipe1.jpg
+
 │   ├── equipe2.jpg
+
 │   └── depoimento1.jpg
+
 │
 ├── vendor/
-│   ├── bootstrap/
-│   │   ├── bootstrap.min.css
-│   │   └── bootstrap.bundle.min.js
-│   │
-│   └── icons/
-│       └── fontawesome.css
-│
-└── assets/
-    └── mapa.html
+
+  ├── bootstrap/
+  
+  │   ├── bootstrap.min.css
+  
+  │   └── bootstrap.bundle.min.js
+  
+  │
+  
+   └── icons/
+   
+       └── fontawesome.css
+
 
 ⚙️ Tecnologias Utilizadas
 
