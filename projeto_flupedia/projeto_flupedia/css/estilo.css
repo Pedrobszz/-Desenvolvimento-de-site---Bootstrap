@@ -1,0 +1,26 @@
+/* CORES DO FLUMINENSE */
+:root {
+  --flu-green: #006633;
+  --flu-red: #7A1E3A;
+}
+
+.bg-flu {
+  background-color: var(--flu-green) !important;
+}
+
+.text-flu {
+  color: var(--flu-green);
+}
+
+.btn-flu {
+  background-color: var(--flu-green);
+  color: white;
+  border: none;
+}
+
+.btn-flu:hover {
+  background-color: var(--flu-red);
+}
+.navbar {
+  background-color: #006633 !important;
+}
